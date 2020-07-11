@@ -1,0 +1,7 @@
+needed_space_parts 10
+alien_count 7
+mapW_multiple 2
+mapH_multiple 2
+oxygen_depletion_rate 0.001
+oxygen_refill_tank_spawn_time 25000
+alien_damage 20
